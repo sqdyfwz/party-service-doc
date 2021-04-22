@@ -1,0 +1,19 @@
+{
+  "name": "party-service-doc",
+  "version": "0.0.1",
+  "description": "社区党员服务站项目文档",
+  "main": "index.js",
+  "authors": {
+    "name": "pzb",
+    "email": ""
+  },
+  "repository": "https://github.com/sqdyfwz/party-service-doc.git",
+  "scripts": {
+    "dev": "vuepress dev doc",
+    "build": "vuepress build doc"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
